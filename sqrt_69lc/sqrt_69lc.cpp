@@ -8,13 +8,11 @@ the decimal digits are truncated and only the integer part of the result is retu
 
  */
 
-
 class Solution {
 public:
     int mySqrt(int x) {
     long long lo = 0;
     long long hi = x;
-
 
     while (lo < hi){
         long long mid = (lo + hi)/ 2;
