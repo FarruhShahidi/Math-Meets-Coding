@@ -5,6 +5,11 @@ n is a 32-bit integer
 -100.0 < x < 100.0
 */
 
+/*
+Time complexity: n is decreasing by a multiple of 2 in each recursion,
+so the time comlexity is logarithmic -- O(logn)
+*/
+
 
 
 

@@ -5,4 +5,4 @@ The problems have near optimal time and space complexities, which are also discu
 
 To be updated.\
 
-[Sqareroot leetcode 69](https://github.com/FarruhShahidi/math-meets-coding/blob/master/sqrt_69lc/sqrt_69lc.cpp)
+[Squareroot leetcode 69](https://github.com/FarruhShahidi/math-meets-coding/blob/master/sqrt_69lc/sqrt_69lc.cpp)
