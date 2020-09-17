@@ -29,7 +29,7 @@ Time complexity: the algorithm runs in C*n for some constant C, where n is the l
 */
 
 
-/*necesssry libraries should be included*/
+/*necessary libraries should be included*/
 
 class Solution {
 public:
